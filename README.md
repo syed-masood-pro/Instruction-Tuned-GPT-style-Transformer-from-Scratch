@@ -83,7 +83,7 @@ pip install torch tiktoken tqdm
 
 ## 🚀 How to Use
 ### 1. Clone the Repository
-```
+```bash
 git clone https://github.com/syed-masood-pro/Instruction-Tuned-GPT-style-Transformer-from-Scratch.git
 cd Instruction-Tuned-GPT-style-Transformer-from-Scratch
 ```
@@ -166,9 +166,9 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 **Syed Masood**
 
-✉️ syedmasood.pro@gmail.com
+✉️ [syedmasood.pro@gmail.com](syedmasood.pro@gmail.com)
 
-🔗 [GitHub](https://github.com/syed-masood-pro/)
+🔗 [GitHub Profile](https://github.com/syed-masood-pro/)
 
-💼 LinkedIn
+💼 [LinkedIn](https://www.linkedin.com/in/syed-masood-pro/)
 
