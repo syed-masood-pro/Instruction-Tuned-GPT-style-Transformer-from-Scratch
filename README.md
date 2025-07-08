@@ -118,9 +118,7 @@ train_model_simple(
 ```
 
 ### 4. Inference on Test Data
-```
-python
-
+```python
 from inference import generate_response
 
 input_text = format_input(test_data[0])
@@ -129,8 +127,7 @@ print("Response:", response)
 ```
 
 ### 5. Save All Responses
-```
-python
+```python
 with open("instruction-data-with-response.json", "w") as f:
     json.dump(test_data, f, indent=2)
 ```
