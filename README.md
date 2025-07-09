@@ -128,7 +128,7 @@ print("Response:", response)
 
 ### 5. Save All Responses
 ```python
-with open("instruction-data-with-response.json", "w") as f:
+with open("outcome/instruction-data-with-response.json", "w") as f:
     json.dump(test_data, f, indent=2)
 ```
 
